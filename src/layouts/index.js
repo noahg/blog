@@ -8,7 +8,10 @@ class Template extends React.Component {
     const {location, children } = this.props
 
     const AppTitle = styled.h1`
-      font-size: 64px;
+      font-size: 60px;
+      @media (orientation: portrait) { 
+        font-size: 36px;
+      }
       > a { 
         text-decoration: none;
         color: black;
