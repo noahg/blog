@@ -12,13 +12,13 @@ class Bio extends React.Component {
 
     const BioPhoto = styled.img`
       border-radius: 10%;
+      align-self: flex-start;
     `
     const BioDescription = styled.p`
       padding-left: 24px;
+      flex-wrap: no-wrap;
       @media (orientation: portrait) {
         padding-left: 12px;
-        max-height: 144px;
-        overflow-y: scroll;
       }
     `
 
@@ -30,12 +30,8 @@ class Bio extends React.Component {
       >
       </BioPhoto>
       <BioDescription>
-        Hi, I'm Noah, this is where I post my <strong>binsights</strong>, <strong>learnings</strong>, and <strong>opinions</strong>.{' '}
-        I post what I'm reading on <a href='https://www.tumblr.com/blog/noahglus'>Tumblr</a>, 
-        my undeveloped thoughts on <a href='https://twitter.com/noahglus'>Twitter</a>, 
-        my work status on <a href='https://www.linkedin.com/in/noah-glusenkamp-b8339512/'>LinkedIn</a>, 
-        my code on <a href='https://www.github.com/noahg'>GitHub</a>, 
-        and my cat on <a href='https://www.instagram.com/noahglus/'>Instagram</a>. 
+        Hi, I'm Noah, this is where I post my <strong>insights</strong>, <strong>learnings</strong>, and <strong>opinions</strong>.{' '}
+        I live in Seattle where I write, code, cook, meditate, and paddle.
       </BioDescription>
     </BioSection>
     )
