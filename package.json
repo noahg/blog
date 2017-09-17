@@ -24,7 +24,8 @@
     "gatsby-transformer-remark": "^1.7.1",
     "gatsby-transformer-sharp": "^1.6.1",
     "lodash": "^4.15.0",
-    "typography-theme-wordpress-2014": "^0.15.10"
+    "typeface-lato": "^0.0.35",
+    "typeface-open-sans": "^0.0.35"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0",

@@ -1,6 +1,11 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
+import typography from "../utils/typography"
+import "typeface-open-sans"
+import "typeface-lato"
+const rhythm = typography.rhythm
+const scale = typography.scale
 
 class Template extends React.Component {
   render() {
@@ -9,8 +14,10 @@ class Template extends React.Component {
 
     const AppTitle = styled.h1`
       font-size: 60px;
+      margin-top: 48px;
       @media (orientation: portrait) { 
         font-size: 36px;
+        margin-top: 36px;
       }
       > a { 
         text-decoration: none;
