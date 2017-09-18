@@ -1,7 +1,9 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
+import '../css/global-styles.css'
 import profilePic from './profile-pic.png'
+
 
 class Bio extends React.Component {
   render() {
@@ -32,7 +34,7 @@ class Bio extends React.Component {
       </BioPhoto>
       <BioDescription>
         Hi, I'm Noah, this is where I post my <strong>insights</strong>, <strong>learnings</strong>, and <strong>opinions</strong>.{' '}
-        I live in Seattle where I write, read, code, cook, meditate, and paddle. <Link to='/about-me/'>More about me</Link>
+        I live in Seattle where I write, read, code, cook, meditate, and paddle. <Link to='/about-me/'>More about me.</Link>
       </BioDescription>
     </BioSection>
     )
