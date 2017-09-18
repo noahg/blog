@@ -6,11 +6,11 @@ path: "/about-me/"
 
 I created this blog to share my insights, learnings and opinions. 
 
-I have been practicing mindfulness / meditation and studying Buddhist
-thought for more than 10 years. I'm occasionally inspired to share **insights** from these experiences, and reflections.
+I have been practicing mindfulness meditation and studying Buddhist
+thought for more than 10 years. I'm occasionally inspired to share **insights** from these experiences and reflections.
 
 I enjoy **learning** new things and learn most effectively when endeavoring to communicate what I have learned.
-Lately, I have been learning about immune-system strengthening / resilience, front-end development with Angular(x) and React, outrigger canoe paddling, adaptive/evolutionary economics, geospatial analysis, machine learning, financial independence, transformational organizing, MOBAs, cannabis as medicine, and bluegrass/old-timey banjo.
+Lately, I have been learning about immune-system strengthening, outrigger canoe paddling, adaptive/evolutionary economics, front-end development with Angular(x) and React, geospatial analysis, machine learning, transformational organizing, financial independence, MOBAs, cannabis as medicine, and bluegrass/old-timey banjo.
 
 I care very much about the health and happiness of the world and all the people, animals, and plants that inhabit it. This compels me to offer my **opinions** on policy, electoral strategy, and political theory. 
 
