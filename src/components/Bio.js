@@ -26,17 +26,17 @@ class Bio extends React.Component {
     `
 
     return (
-    <BioSection>
-      <BioPhoto
-        src={profilePic}
-        alt={`Noah Glusenkamp`}
-      >
-      </BioPhoto>
-      <BioDescription>
-        Hi, I'm Noah, this is where I post my <strong>insights</strong>, <strong>learnings</strong>, and <strong>opinions</strong>.{' '}
-        I live in Seattle where I write, read, code, cook, meditate, and paddle. <Link to='/about-me/'>More about me.</Link>
-      </BioDescription>
-    </BioSection>
+      <BioSection>
+        <BioPhoto
+          src={profilePic}
+          alt={`Noah Glusenkamp`}
+        >
+        </BioPhoto>
+        <BioDescription>
+          Hi, I'm Noah, this is where I post my <strong>insights</strong>, <strong>learnings</strong>, and <strong>opinions</strong>.{' '}
+          <br></br><Link to='/about-me/'>More about me.</Link>
+        </BioDescription>
+      </BioSection>
     )
   }
 }
