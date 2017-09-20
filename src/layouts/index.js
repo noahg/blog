@@ -16,8 +16,10 @@ class Template extends React.Component {
     const AppTitle = styled.h1`
       font-size: 60px;
       margin-top: 48px;
-      padding-bottom: 12px;
+      padding-bottom: 24px;
       border-bottom: solid 1px lightgray;
+      text-align: center;
+      width: 100%;
 
       @media (orientation: portrait) { 
         font-size: 36px;
