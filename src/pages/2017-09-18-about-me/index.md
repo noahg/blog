@@ -20,7 +20,7 @@ My favorite activities are surfing, paddling, cross-country skiing, yoga, making
 
 I post what I'm reading on <a href='https://www.tumblr.com/blog/noahglus'>Tumblr</a>, 
         my undeveloped thoughts on <a href='https://twitter.com/noahglus'>Twitter</a>, 
-        my work status on <a href='https://www.linkedin.com/in/noah-glusenkamp-b8339512/'>LinkedIn</a>, 
+        my work status on <a href='https://www.linkedin.com/in/noahglus/'>LinkedIn</a>, 
         my code on <a href='https://www.github.com/noahg'>GitHub</a>, 
         and my cat on <a href='https://www.instagram.com/noahglus/'>Instagram</a>. 
 
