@@ -34,7 +34,7 @@ class Bio extends React.Component {
         </BioPhoto>
         <BioDescription>
           Hi, I'm Noah, this is where I post my <strong>insights</strong>, <strong>learnings</strong>, and <strong>opinions</strong>.{' '}
-          <br></br><Link to='/about-me/'>More about me.</Link>
+          <Link to='/about-me/'> More about me.</Link>
         </BioDescription>
       </BioSection>
     )
