@@ -1,7 +1,7 @@
 ---
 title: My Notes on Neural Networks and Deep Learning
 date: "2018-01-02"
-path: "/neural-networks-notes/"
+path: "/deep-learning-notes/"
 ---
 This past fall I took a course on Neural Networks and Deep Learning from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)'s DeepLearning.ai. It's provided through Coursera as course 1 of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). 
 
